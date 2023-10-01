@@ -9,4 +9,4 @@ Para el conversor de temperatura son:
 - Grados CELSIUS (°C) a FAHRENHEIT(°F) y  viceversa
 - Grados CELSIUS (°C) a KELVIN (K)  y viceversa
 - Grados FAHRENHEIT (°F) a KELVIN (K)  y viceversa
-La intencion es con el uso de una API volverlo automatizado ya que actualmente los valores es el caso de la moneda estan a fecha de (1/10/2023)
+- La intencion es con el uso de una API volverlo automatizado ya que actualmente los valores es el caso de la moneda estan a fecha de (1/10/2023)
